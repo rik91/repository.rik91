@@ -17,7 +17,7 @@
     </extension>
 </addon>
 
-<addon id="script.quasar.burst-fr" name="Quasar [COLOR FFFF6B00]Burst[/COLOR] French" version="0.5.10.3" provider-name="rik91">
+<addon id="script.quasar.burst-fr" name="Quasar [COLOR FFFF6B00]Burst[/COLOR] French" version="0.5.10.4" provider-name="rik91">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="plugin.video.quasar" optional="false"/>
